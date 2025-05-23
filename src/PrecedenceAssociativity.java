@@ -9,6 +9,9 @@ public class PrecedenceAssociativity {
         System.out.println(a);
         System.out.println(b);
         float result = (b*b - 4*a*c )/(2*a);
+        System.out.println((a-b)/2);
+        System.out.println(a*a - b*b);
+        System.out.println(a * b - c);
         System.out.println(result);
     }
 }
