@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PractceSet1 {
+public class PracticeSet1 {
     public static void main(String[] args){
 //        sum of 3 numbers
 //        cgpa and marks are out of 100

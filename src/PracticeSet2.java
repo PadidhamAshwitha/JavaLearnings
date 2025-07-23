@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PrasticeSet2 {
+public class PracticeSet2 {
     public static void main(String[] args){
         float a = 7/4.f * 9/2.f;
         System.out.println(a);

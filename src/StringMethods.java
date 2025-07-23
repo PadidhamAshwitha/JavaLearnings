@@ -35,6 +35,7 @@ public class StringMethods {
         String str = "Virat Kohli";
         System.out.println("Check Equals: " + str.equals("Virat Kohli")); // It is case sensitive
         System.out.println("Check equals without case sensititve: " + str.equalsIgnoreCase("virat KOHLI"));
-        System.out.println("\"escape \r sequence\t characters\f hai hello\" ");
+        System.out.println("\" escape \r sequence\t characters\f hai hello\" ");
+
     }
 }
